@@ -1,0 +1,3 @@
+D:/Project/MyProject/C Projects/SocketProgramming/cmake-build-debug/CMakeFiles/SocketProgramming.dir
+D:/Project/MyProject/C Projects/SocketProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Project/MyProject/C Projects/SocketProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
